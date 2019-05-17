@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <library.example.jyx.jyxcustomview.ui.fragment.view3dRubik.View3D
+        android:id="@+id/view3d"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
